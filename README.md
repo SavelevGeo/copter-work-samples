@@ -1,4 +1,4 @@
-# Samples of work with 
+# Samples of drone photogrammetry and 3d modelling projects
 Here are several sample projects created by repo owner 
 
 All photos are taken by the author using DJI Mavic 2 Pro and processed using Agisoft Metashape  
