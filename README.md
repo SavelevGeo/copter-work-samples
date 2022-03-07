@@ -6,7 +6,7 @@ All photos are taken by the author using DJI Mavic 2 Pro and processed using Agi
 # 2D Detailed map
 Geological stucture layers created in QGIS. In the upper part of the page is the map and in the lower part - a sideview.
 
-![Geological map](https://user-images.githubusercontent.com/57714410/157049694-d41c6f10-bc3d-4bea-b66e-aa2797702776.png)
+![Geological map](https://user-images.githubusercontent.com/57714410/157049822-9c6ae48c-6707-4d8a-92bd-af6fb024aebc.png)
 
 # 3D Model
 A pdf containg the model can be opened by Adobe Acrobat. [3D models views need to be enabeled](https://helpx.adobe.com/acrobat/using/displaying-3d-models-pdfs.html)
